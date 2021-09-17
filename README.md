@@ -10,7 +10,10 @@ build_wiki_graph.py
 4. Execute:
 
 ```
-/dynamic-ppe-fast datasets/academic-small/config_t_9_d_512/ 512 0.1 0.15 hash 0 20 0
+./dynamic-ppe-fast -h
+DynamicPPE: ./dynamic-ppe-fast config_path emb_dim epsilon alpha model seed num_cpus verbose
+
+./dynamic-ppe-fast datasets/academic-small/config_t_9_d_512/ 512 0.1 0.15 hash 0 20 0
 ```
 
 # Data 
