@@ -8,5 +8,6 @@ g++ -std=c++0x -O3 -g -Wall -o dynamic-ppe-fast dynamic_ppe_fast.cpp MurmurHash3
 build_wiki_graph.py
 3. academic-small is from: https://github.com/luckiezhou/DynamicTriad
 
-# Data
-Data location: https://www.dropbox.com/sh/g3i95yttpjhgm2l/AAD8pF0XtgFv0fzmTrrOO4BWa?dl=0
+# Data 
+Download all datasets from: https://www.dropbox.com/sh/g3i95yttpjhgm2l/AAD8pF0XtgFv0fzmTrrOO4BWa?dl=0
+
