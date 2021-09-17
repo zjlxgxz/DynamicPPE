@@ -7,7 +7,7 @@ g++ -std=c++0x -O3 -g -Wall -o dynamic-ppe-fast dynamic_ppe_fast.cpp MurmurHash3
 2. to build enwiki20 dataset, go to code folder and use the following python script:
 build_wiki_graph.py
 3. academic-small is from: https://github.com/luckiezhou/DynamicTriad
-4: Execute:
+4. Execute:
 
 ```
 /dynamic-ppe-fast datasets/academic-small/config_t_9_d_512/ 512 0.1 0.15 hash 0 20 0
