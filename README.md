@@ -20,4 +20,6 @@ DynamicPPE: ./dynamic-ppe-fast config_path emb_dim epsilon alpha model seed num_
 Download all datasets from: https://www.dropbox.com/sh/g3i95yttpjhgm2l/AAD8pF0XtgFv0fzmTrrOO4BWa?dl=0
 
 # Python Version 
-In-progress  (will release the version optimized with numba multi-thread, soon. -- Dec 22, 2021 )
+Released together with our follow-up paper: https://github.com/zjlxgxz/DynAnom
+
+The Python version supports weighted graphs and edge weight changes.
